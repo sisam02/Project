@@ -1,0 +1,14 @@
+<!-- Design a page having suitable background and text color -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 4</title>
+</head>
+<body style="background-color:rgb(176, 218, 176); padding: 20px 70px 20px 70px">
+    <h1 style="text-align:center; text-decoration:underline; margin:70px;color:rgb(105, 97, 86)">Organic Food</h1>
+    <p style="text-align:justify; font-size:large;color:rgb(26, 7, 7)">Organic food, fresh or processed food produced by organic farming methods. Organic food is grown without the use of synthetic chemicals, such as human-made pesticides and fertilizers, and does not contain genetically modified organisms (GMOs). Organic foods include fresh produce, meats, and dairy products as well as processed foods such as crackers, drinks, and frozen meals. The market for organic food has grown significantly since the late 20th century, becoming a multibillion dollar industry with distinct production, processing, distribution, and retail systems.</p>
+    <img src="images/healthy.jpg" alt="organicfood" style="width:550px; height:350px; margin: 20px 350px 0px 350px">
+</body>
+</html>
