@@ -1,0 +1,64 @@
+<!--Create table on HTML and insert your friend list -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 5</title>
+    <style>
+        table ,th ,td
+        {border: 1px solid black; border-collapse:collapse;} 
+        th{ text-align: left;}
+        table{ margin: 0px 475px 0px 475px; font-size:large;}
+    </style>
+</head>
+<body>
+    <h1 style="color:rgb(118, 106, 129); text-align: center; margin:100px 0px 65px 0px;">My Friend's Detail</h1>
+    <table style="width:30%;">
+        <tr>
+            <th>S.N</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Kritika Panta</td>
+            <td>Manamaiju</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Nisala Maharjan</td>
+            <td>Bhimsenthan</td>
+            <td>21</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Nischal Dhoj Kunwar</td>
+            <td>Basundhara</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Ranju Dhital</td>
+            <td>Tarkeswor</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Ritika Maharjan</td>
+            <td>Khusibu</td>
+            <td>21</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Sisam Upadhyay</td>
+            <td>Lazimpat</td>
+            <td>21</td>
+        </tr>
+       
+    </table>
+</body>
+</html>
